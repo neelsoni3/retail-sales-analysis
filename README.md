@@ -104,7 +104,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/retail-sales-analysis.git
+git clone https://github.com/neelsoni3/retail-sales-analysis.git
 ```
 
 ### 2. Navigate to the Project Directory
@@ -191,11 +191,7 @@ This project demonstrates practical skills in:
 
 ## 👨‍💻 Author
 
-**Your Name**
-
-Aspiring Data Analyst | MSc Applied AI & Data Science Student
-
-Interested in Python, SQL, Data Analytics, Business Intelligence, and Data-Driven Decision Making.
+**Neel Soni**
 
 ---
 
